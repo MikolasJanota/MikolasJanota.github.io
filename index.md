@@ -7,5 +7,5 @@ title: Home
 
 Senior Researcher at CTU Prague.
 
-- 🌐 University profile: https://university.edu/~janotmik
-- 📝 Blog: /blog/
+- 🌐 [University profile](https://university.edu/~janotmik)
+- 📝 [Blog](/blog/)
